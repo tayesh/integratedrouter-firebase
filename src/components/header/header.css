@@ -1,0 +1,10 @@
+div nav a {
+    margin-right: 10px;
+    font-size: 1.15em;
+    text-decoration: none;
+    color: black;
+}
+
+div nav a:hover {
+    color: gold;
+}
